@@ -3,6 +3,11 @@ A small clone of [1024](https://play.google.com/store/apps/details?id=com.veewo.
 
 Made just for fun. [Play it here!](http://gabrielecirulli.github.io/2048/)
 
+##Message from JerryXie
+
+This project is edited from 2048 origin. This project is for Tianjin Foreign Languages School C9S3, 2012.
+Thanks to original 2048's editors.
+
 ### Contributions
 
  - [TimPetricola](https://github.com/TimPetricola) added best score storage
